@@ -3,7 +3,7 @@
 <img src="1.jpg" alt="Banner image of paraglider wing" width="100%" align="center" />
 <!--
 <a href="https://www.tookay.net/">
-<img src="5.jpg" alt="Banner image of paraglider wing" width="100%" align="center" />
+<img src="chase_cam.jpg" alt="Banner image of paraglider wing" width="100%" align="center" />
 </a>
 -->
 
